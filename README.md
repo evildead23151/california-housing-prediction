@@ -28,7 +28,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/evildead23151/README.md
 
 Navigate to the project directory:
 
